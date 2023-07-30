@@ -39,4 +39,4 @@ Additionally, feedback mechanisms, such as user ratings and comments, can be inc
 
 
 
-HC-IDE aims to provide developers with accessible and eye-friendly coding themes for outdoor coding sessions, enhancing their productivity and comfort in different lighting conditions.
+hc-ide aims to provide developers with accessible and eye-friendly coding themes for outdoor coding sessions, enhancing their productivity and comfort in different lighting conditions.
